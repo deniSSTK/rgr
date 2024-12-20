@@ -1,3 +1,0 @@
-C:/rgr/cmake-build-debug/CMakeFiles/rgr.dir
-C:/rgr/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/rgr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
