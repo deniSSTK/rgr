@@ -5,6 +5,26 @@
  * RGR 2
  */
 
+/*
+TODO: Delete examples after testing
+input\output examples:
+
+Input: %13~ABC%
+Valid
+
+Input: %123-%A%
+Valid
+
+Input: %13ABC%
+Invalid
+
+Input: 13~ABC%
+Invalid
+
+Input: %13~ABC
+Invalid
+*/
+
 #include <iostream>
 #include <string>
 using namespace std;
