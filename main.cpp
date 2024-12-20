@@ -1,3 +1,10 @@
+/**
+* Done by:
+ * Student Name: Denis Tkachenko
+ * Student Group: 121
+ * RGR 2
+ */
+
 #include <iostream>
 #include <string>
 using namespace std;
